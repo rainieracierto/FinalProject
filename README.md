@@ -1,5 +1,5 @@
 # FinalProject
-## (Enter Team Name Here)
+## Team 13
 
 Team Members: Rainier Acierto raa175@pitt.edu, Robert Horvath rmh84@pitt.edu <br>
 ### Datasets: <br>
