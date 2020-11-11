@@ -10,4 +10,4 @@ Non-Traffic Citations Data: NTCs, also known as "summary offenses," data on low-
  <br>[Link](https://data.wprdc.org/dataset/non-traffic-citations)<br>
   
 Abstract: Our main metric we focused on is safety. Two datasets we used to measure safety are Police Arrest Data (shows amount of arrests per neighborhoods) and Non-Traffic Citations Data (shows amount of low-criminal offenses per neightbor. Using these, we found out that Mount Oliver and Ridgemont are the safest neighborhoods. Therefore, they are the best neighborhoods in Pittsburgh. 
->>>>>>> 881003a211fce8fae1c45e9e8e04dd316ce90c83
+
